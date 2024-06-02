@@ -23,10 +23,10 @@ const config = {
         fill: {
           1: "rgba(255, 255, 255, 0.10)",
         },
-        bankGradient: "#0179FE",
+        bankGradient: "#93073e",
         indigo: {
-          500: "#6172F3",
-          700: "#3538CD",
+          500: "#cc165d",
+          700: "#93073e",
         },
         success: {
           25: "#F6FEF9",
@@ -45,18 +45,18 @@ const config = {
           900: "#851651",
         },
         blue: {
-          25: "#F5FAFF",
-          100: "#D1E9FF",
-          500: "#2E90FA",
-          600: "#1570EF",
-          700: "#175CD3",
-          900: "#194185",
+          25: "#f4e8ed",
+          100: "#f7d8e4",
+          500: "#f9bdd5",
+          600: "#f792ba",
+          700: "#e42d75",
+          900: "#b2245c",
         },
         sky: {
-          1: "#F3F9FF",
+          1: "#fdc0d8",
         },
         black: {
-          1: "#00214F",
+          1: "#571845",
           2: "#344054",
         },
         gray: {
@@ -70,10 +70,10 @@ const config = {
         },
       },
       backgroundImage: {
-        "bank-gradient": "linear-gradient(90deg, #0179FE 0%, #4893FF 100%)",
+        "bank-gradient": "linear-gradient(90deg, #93073e 0%, #c90035 100%)",
         "gradient-mesh": "url('/icons/gradient-mesh.svg')",
         "bank-green-gradient":
-          "linear-gradient(90deg, #01797A 0%, #489399 100%)",
+          "linear-gradient(90deg, #93073e 0%, #c90035 100%)",
       },
       boxShadow: {
         form: "0px 1px 2px 0px rgba(16, 24, 40, 0.05)",
