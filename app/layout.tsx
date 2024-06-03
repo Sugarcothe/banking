@@ -12,10 +12,10 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "Horizon",
-  description: "Horizon is a modern banking platform for everyone.",
+  title: "WallBank",
+  description: "WallBank is a modern multi-bank account management system",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo.png'
   }
 };
 
